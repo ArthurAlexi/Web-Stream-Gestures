@@ -1,4 +1,4 @@
-import { extraHorizontalCaptureAreaInPixels } from '../../../../../lib/shared/camera.js'
+// import { extraHorizontalCaptureAreaInPixels } from '../../../../../lib/shared/camera.js'
 
 export default class HandGestureView {
 
